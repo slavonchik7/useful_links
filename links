@@ -17,3 +17,6 @@ Just interesting programs
     
 Other
   http://www.igce.comcor.ru/
+
+Signal handling for C Linux
+  https://stackoverflow.com/questions/16891019/how-to-avoid-using-printf-in-a-signal-handler
