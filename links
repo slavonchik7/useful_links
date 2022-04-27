@@ -22,3 +22,6 @@ Signal handling for C Linux
   https://stackoverflow.com/questions/16891019/how-to-avoid-using-printf-in-a-signal-handler
   https://russianblogs.com/article/47201007971/
   http://citforum.ru/programming/unix/signals/
+  
+Timers linux example
+  https://russianblogs.com/article/27222400803/
