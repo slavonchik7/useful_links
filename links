@@ -25,3 +25,6 @@ Signal handling for C Linux
   
 Timers linux example
   https://russianblogs.com/article/27222400803/
+  
+Linux C allocator:
+  https://habr.com/ru/post/270009/
