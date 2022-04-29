@@ -33,3 +33,6 @@ Linux C allocator:
 Linux serial C
   https://stackoverflow.com/questions/6947413/how-to-open-read-and-write-from-serial-port-in-c
   http://ccfit.nsu.ru/~deviv/courses/unix/unix/ng5951c.html
+  
+Testing write buffer size C linux
+  https://acm.bsu.by/wiki/Unix2017b/%D0%92%D0%B2%D0%BE%D0%B4-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4_%D0%BF%D1%80%D0%B8_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8_POSIX_C_API
