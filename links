@@ -25,6 +25,11 @@ Signal handling for C Linux
   
 Timers linux example
   https://russianblogs.com/article/27222400803/
+  http://www.ccfit.nsu.ru/~kireev/lab1/lab1time.htm
   
 Linux C allocator:
   https://habr.com/ru/post/270009/
+
+Linux serial C
+  https://stackoverflow.com/questions/6947413/how-to-open-read-and-write-from-serial-port-in-c
+  http://ccfit.nsu.ru/~deviv/courses/unix/unix/ng5951c.html
